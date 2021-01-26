@@ -1,0 +1,40 @@
+body{
+	background-image: url(../img/50-Beautiful-and-Minimalist-Presentation-Backgrounds-04.jpg);
+}
+.Header h1 {
+	background-color: #2ecc71;
+	color: #ffffff;
+	text-align: center;
+}
+.main {
+    background: #2ecc71;
+}
+
+.main h2 {
+    color: #ffffff;
+    text-align: center;
+    font-family: Blackadder ITC;
+    font-size: 60px;
+}
+
+.main p {
+    color: #ffffff;
+    font-size: 20px;
+    padding: 30px;
+    text-align: center;
+}
+
+.footer {
+    background: #2ecc71;
+    text-align: center;
+}
+
+.footer h3 {
+    color: #ffffff;
+    font-size: 24px;
+    font-family: Candara;
+}
+
+.footer p {
+    color: #ffffff;
+}
